@@ -1,0 +1,8 @@
+{
+  "name": "Adaptive Quiz Generator",
+  "description": "An interactive educational quiz agent that observes learner responses, evaluates performance, adapts difficulty, and provides tailored learning feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
